@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi, I’m Dhruv
 
-<!--
-**ddhruvsharmaa/ddhruvsharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE Student @ SRM
 
-Here are some ideas to get you started:
+Aspiring Software Developer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning & improving problem-solving skills
+💻 Solved 200+ LeetCode 
+🚀 Interested in Full-Stack Development & Backend Engineering
+
+⸻
+
+🛠️ Skills
+
+Languages:
+C | C++ | Java
+
+Web & Development:
+HTML | CSS | JavaScript | Node.js | React
+
+Databases:
+MySQL | MongoDB
+
+Tools & Concepts:
+Git | GitHub | VS Code | Postman | DSA | OOP
+
+⸻
+
+📫 Connect With Me
+	•	LinkedIn:https://www.linkedin.com/in/dhruv-sharma-719957345/
+	•	GitHub: https://github.com/ddhruvsharmaa
+	•	Email: vdhruvsharma@gmail.com
+
+⸻
+
+⭐ Thanks for visiting my profile! Let’s connect and build something amazing.
